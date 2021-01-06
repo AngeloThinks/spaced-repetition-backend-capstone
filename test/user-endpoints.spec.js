@@ -179,7 +179,7 @@ describe('User Endpoints', function () {
             { original: 'hai', translation: 'yes' },
             { original: 'jitaku', translation: 'home' },
             { original: 'iie', translation: 'no' },
-            { original: 'traduire', translation: 'translate' },
+            { original: 'suimin', translation: 'sleep' },
             { original: 'keisanki', translation: 'calculator' },
             { original: 'inu', translation: 'dog' },
             { original: 'neko', translation: 'cat' },
