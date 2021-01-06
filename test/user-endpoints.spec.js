@@ -177,12 +177,14 @@ describe('User Endpoints', function () {
           words: [
             { original: 'konnichiwa', translation: 'hello' },
             { original: 'hai', translation: 'yes' },
+            { original: 'tsumazuku', translation: 'stumple' },
             { original: 'jitaku', translation: 'home' },
             { original: 'iie', translation: 'no' },
             { original: 'suimin', translation: 'sleep' },
             { original: 'keisanki', translation: 'calculator' },
             { original: 'inu', translation: 'dog' },
-            { original: 'neko', translation: 'cat' },
+            { original: 'gomennasai', translation: 'sorry' },
+            { original: 'neko', translation: 'cat' }
           ]
         }
         return supertest(app)
