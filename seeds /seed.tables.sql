@@ -33,11 +33,6 @@ VALUES
   (10, 1, 'neko', 'cat', null);
 
 
-
-
-
-
-
 UPDATE "language" SET head = 1 WHERE id = 1;
 
 -- because we explicitly set the id fields
