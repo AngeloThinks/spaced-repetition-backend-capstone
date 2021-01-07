@@ -183,8 +183,7 @@ describe('User Endpoints', function () {
             { original: 'suimin', translation: 'sleep' },
             { original: 'keisanki', translation: 'calculator' },
             { original: 'inu', translation: 'dog' },
-            { original: 'gomennasai', translation: 'sorry' },
-            { original: 'neko', translation: 'cat' }
+
           ]
         }
         return supertest(app)
