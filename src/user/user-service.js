@@ -65,9 +65,11 @@ const UserService = {
         ['iie', 'no', 6],
         ['suimin', 'sleep', 7],
         ['keisanki', 'calculator', 8],
-        ['inu', 'dog', null],
+        ['inu', 'dog', 9],
+        ['gomennasai','sorry', 10],
+        ['neko', 'cat', null]
       ]
-
+ 
       const [languageHeadId] = await trx
         .into('word')
         .insert(
