@@ -29,7 +29,7 @@ VALUES
   (6, 1, 'suimin', 'sleep', 7),
   (7, 1, 'keisanki', 'calculator', 8),
   (8, 1, 'inu', 'dog', 9),
-  (9, 1, 'gomennasai','sorry', 10),
+  (9, 1, 'gomennasai', 'sorry', 10),
   (10, 1, 'neko', 'cat', null);
 
 
