@@ -156,9 +156,6 @@ languageRouter
           await LanguageService.updateWord(db, language.head, correct_count, incorrect_count, memory_value, word.next)
         }
         
-      
-      
-      
       let word2 = await LanguageService.getWord(
         req.app.get('db'),
         word.next
