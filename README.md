@@ -1,6 +1,4 @@
-# Spaced repetition API!
-
-## Spaced Repetition API Server
+# Spaced Repetition API Server
 
 ## Repositories
 Server Repo: https://github.com/RX-78GP02A/spaced-repetition-backend 
