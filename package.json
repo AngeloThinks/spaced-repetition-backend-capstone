@@ -10,15 +10,11 @@
     "migrate:production": "heroku run npm run migrate",
     "start": "node src/server.js",
     "predeploy": "npm audit",
-    "deploy": "git push heroku master",
-    "postdeploy": "npm run migrate:production"
+    "deploy": "git push heroku master"
   },
   "keywords": [],
   "author": "Marcus Ridley <https://github.com/RX-78GP02A>",
   "license": "MIT",
-  "engines": {
-    "node": "12.18.3"
-  },
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
