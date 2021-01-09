@@ -48,6 +48,7 @@ function makeLanguagesAndWords(user) {
     },
   ]
 
+  
   const words = [
     {
       id: 1,
