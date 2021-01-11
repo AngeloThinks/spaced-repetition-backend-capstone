@@ -6,7 +6,6 @@ Server Repo: https://github.com/RX-78GP02A/spaced-repetition-backend
 Client Repo: https://github.com/RX-78GP02A/spaced-repetition-frontend
 
 ## Live Links
-Vercel Client | Live Link:  
 Heroku Server | Live Link: https://pure-fortress-25740.herokuapp.com/
 
 ## Summary
@@ -18,8 +17,8 @@ This project uses spaced repetition to allow the user to create an account, lear
 - JavaScript
 - React
 - React-Router
-Context
-Cypress (testing)
+- Context
+- Cypress (testing)
 
 ### Backend
 - NodeJs
