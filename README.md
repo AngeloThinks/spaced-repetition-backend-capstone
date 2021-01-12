@@ -50,3 +50,4 @@ Endpoint will post a new user when signing up, only needing a Username, Name, an
 
 ## Tests
 
+<img width="553" alt="Backend Tests" src="https://user-images.githubusercontent.com/67432727/104367481-e1a89600-54e8-11eb-9899-275430dbab7b.png">
