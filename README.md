@@ -8,6 +8,8 @@ Client Repo: https://github.com/RX-78GP02A/spaced-repetition-frontend
 ## Live Links
 Heroku Server | Live Link: https://pure-fortress-25740.herokuapp.com/
 
+Vercel Deploy | Live Link: https://spaced-repetition-frontend-2pyf9j4a1.vercel.app/
+
 ## Summary
 This project uses spaced repetition to allow the user to create an account, learn a set number of Japanese words from a database, keep track of their score, and the number of times they've gotten a word correct and incorrect.
 
@@ -45,3 +47,6 @@ Endpoint will get the user's guess and compare it to the translation in the data
 
 ### POST '/api/user/
 Endpoint will post a new user when signing up, only needing a Username, Name, and Password
+
+## Tests
+
