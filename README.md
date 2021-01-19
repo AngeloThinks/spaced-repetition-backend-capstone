@@ -1,14 +1,14 @@
 # Spaced Repetition API Server
 
 ## Repositories
-Server Repo: https://github.com/RX-78GP02A/spaced-repetition-backend 
+Server Repo: 
 
-Client Repo: https://github.com/RX-78GP02A/spaced-repetition-frontend
+Client Repo: 
 
 ## Live Links
-Heroku Server | Live Link: https://pure-fortress-25740.herokuapp.com/
+Heroku Server | Live Link: 
 
-Vercel Deploy | Live Link: https://spaced-repetition-frontend-2pyf9j4a1.vercel.app/
+Vercel Deploy | Live Link: 
 
 ## Summary
 This project uses spaced repetition to allow the user to create an account, learn a set number of Japanese words from a database, keep track of their score, and the number of times they've gotten a word correct and incorrect.
@@ -50,4 +50,4 @@ Endpoint will post a new user when signing up, only needing a Username, Name, an
 
 ## Tests
 
-<img width="553" alt="Backend Tests" src="https://user-images.githubusercontent.com/67432727/104367481-e1a89600-54e8-11eb-9899-275430dbab7b.png">
+<img width="553" alt="Backend Tests" src="">
