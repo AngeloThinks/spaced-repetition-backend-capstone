@@ -10,27 +10,27 @@ VALUES
   (
     1,
     'admin',
-    'Dunder Mifflin Admin',
+    'User Admin',
     -- password = "pass"
     '$2a$10$fCWkaGbt7ZErxaxclioLteLUgg4Q3Rp09WW0s/wSLxDKYsaGYUpjG'
   );
 
 INSERT INTO "language" ("id", "name", "user_id")
 VALUES
-  (1, 'Japanese', 1);
+  (1, 'Spanish', 1);
 
 INSERT INTO "word" ("id", "language_id", "original", "translation", "next")
 VALUES
-  (1, 1, 'konnichiwa', 'hello', 2),
-  (2, 1, 'hai', 'yes', 3),
-  (3, 1, 'tsumazuku', 'stumple', 4),
-  (4, 1, 'jitaku', 'home', 5),
-  (5, 1, 'iie', 'no', 6),
-  (6, 1, 'suimin', 'sleep', 7),
-  (7, 1, 'keisanki', 'calculator', 8),
-  (8, 1, 'inu', 'dog', 9),
-  (9, 1, 'gomennasai', 'sorry', 10),
-  (10, 1, 'neko', 'cat', null);
+  (1, 1, 'hola', 'hello', 2),
+  (2, 1, 'si', 'yes', 3),
+  (3, 1, 'adios', 'bye', 4),
+  (4, 1, 'casa', 'home', 5),
+  (5, 1, 'maestra', 'teacher', 6),
+  (6, 1, 'dormir', 'sleep', 7),
+  (7, 1, 'cocina', 'kitchen', 8),
+  (8, 1, 'pero', 'dog', 9),
+  (9, 1, 'coche', 'car', 10),
+  (10, 1, 'bueno', 'good', null);
 
 
 UPDATE "language" SET head = 1 WHERE id = 1;

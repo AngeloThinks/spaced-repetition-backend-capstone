@@ -14,24 +14,24 @@
     "postdeploy": "npm run migrate:production"
   },
   "keywords": [],
-  "author": "Marcus Ridley <https://github.com/RX-78GP02A>",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
     "dotenv": "^6.2.0",
-    "express": "^4.16.4",
+    "express": "^4.17.1",
     "helmet": "^3.15.0",
-    "jsonwebtoken": "^8.5.0",
+    "jsonwebtoken": "^8.5.1",
     "knex": "^0.21.13",
     "morgan": "^1.9.1",
-    "pg": "^7.8.2",
+    "pg": "^7.18.2",
     "postgrator-cli": "^3.3.0"
   },
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^5.2.0",
-    "nodemon": "^1.18.9",
+    "mocha": "^8.2.1",
+    "nodemon": "^1.19.4",
     "supertest": "^3.3.0"
   }
 }
