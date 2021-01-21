@@ -1,12 +1,12 @@
 # Spaced Repetition API Server
 
 ## Repositories
-Server Repo: 
+[Server Repo] (https://github.com/AngeloThinks/spaced-repetition-backend-capstone.git)
 
 Client Repo: 
 
 ## Live Links
-Heroku Server | Live Link: 
+[Heroku Server] (https://vast-crag-51315.herokuapp.com)
 
 Vercel Deploy | Live Link: 
 
