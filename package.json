@@ -1,5 +1,5 @@
 {
-  "name": "express-boilerplate",
+  "name": "spaced-repetition-backend",
   "version": "0.0.1",
   "description": "",
   "main": "src/server.js",
@@ -14,7 +14,7 @@
     "postdeploy": "npm run migrate:production"
   },
   "keywords": [],
-  "author": "Marcus Ridley <https://github.com/RX-78GP02A>",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
