@@ -1,6 +1,1 @@
 DROP TABLE "user";
-DROP TABLE IF EXISTS "language";
-ALTER TABLE "language"
-  DROP COLUMN IF EXISTS "head";
-
-DROP TABLE IF EXISTS "word";
