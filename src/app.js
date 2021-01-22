@@ -11,7 +11,7 @@ const userRouter = require("./user/user-router");
 const app = express();
 const morganSetting = (process.env.NODE_ENV = "production" ? "tiny" : "common");
 app.use(morgan(morganSetting));
-app.use(cors());
+// app.use(cors());
 app.use(helmet());
 
 app.use("/api/auth", authRouter);
