@@ -55,7 +55,7 @@ const UserService = {
       const seq = await db
         .from('word_id_seq')
         .select('last_value')
-        .first()
+        .first()git
 
       const languageWords = [
         ['hola', 'hello', 2],
@@ -63,7 +63,7 @@ const UserService = {
         ['adios', 'bye', 4],
         ['casa', 'home', 5],
         ['maestra', 'teacher', 6],
-        ['suimin', 'sleep', 7],
+        ['dormir', 'sleep', 7],
         ['cocina', 'kitchen', 8],
         ['pero', 'dog', 9],
         ['coche', 'car', 10],
