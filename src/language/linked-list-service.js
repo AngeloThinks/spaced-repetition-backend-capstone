@@ -1,9 +1,3 @@
-// class _Node {
-//     constructor(value, next) {
-//       this.value = value
-//       this.next = next
-//     } 
-//   }
 class _Node {
     constructor(value, next) {
       this.value = value
